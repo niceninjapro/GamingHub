@@ -2,4 +2,4 @@ Time_Slot: Sunday 05/01/2025 - 3:00PM Ticket_Code: IJFA5DVG
 Time_Slot: Sunday 05/01/2025 - 4:00PM Ticket_Code: IJFA5DVG
 Time_Slot: Sunday 05/01/2025 - 5:00PM Ticket_Code: IJFA5DVG
 Time_Slot: Saturday 11/01/2025 - 5:00PM Ticket_Code: IJFA5DVG
-Time Slot: Saturday 11/01/2025 - 3:00PM Ticket Code: UUL0H2E2
+Time_Slot: Saturday 11/01/2025 - 3:00PM Ticket Code: UUL0H2E2
